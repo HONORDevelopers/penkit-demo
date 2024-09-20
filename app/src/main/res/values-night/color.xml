@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTertiary">#33ffffff</color>
+    <color name="magic_color_primary">#A9ffffff</color>
+    <color name="actionbar_theme_color_pressed">#ffffff</color>
+    <color name="actionbar_background">#000000</color>
+    <color name="stylus_view_background">#000000</color>
+    <color name="dash_color">#FFFFFF</color>
+    <color name="main_activity_background">#000000</color>
+    <color name="title_color">#FFFFFF</color>
+    <color name="title_background">#292421</color>
+    <color name="grid_view__background">#000000</color>
+</resources>

@@ -1,0 +1,16 @@
+pluginManagement {
+    repositories {
+        //开源代理仓：
+        maven {
+            allowInsecureProtocol = true
+            url 'https://maven.aliyun.com/repository/public'
+        }
+        //maven融合仓：
+        maven {
+            allowInsecureProtocol = true
+            url 'https://maven.aliyun.com/repository/google'
+        }
+    }
+}
+rootProject.name = "penkitDemo"
+include ':app'

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SuiteNoteDemo</string>
+    <string name="delete_warning" priority="translator">Data Remove Warning</string>
+    <string name="warning" priority="translator">Do you want to permanently delete this handwriting file from this device? If deleted, it cannot be restored！</string>
+    <string name="saving" priority="translator">Saving</string>
+    <string name="delete" priority="translator">Delete</string>
+    <string name="cancel" priority="translator">Cancel</string>
+</resources>

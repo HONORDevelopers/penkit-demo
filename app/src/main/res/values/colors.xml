@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="colorBar">#CCCCCC</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+
+    <color name="colorTertiary">#61000000</color>
+    <color name="magic_white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="magic_color_primary">#E6000000</color>
+    <color name="actionbar_theme_color_pressed">#F2191919</color>
+    <color name="actionbar_background">#FCFFFFFF</color>
+    <color name="stylus_view_background">#FFFFFF</color>
+    <color name="dash_color">#000000</color>
+    <color name="main_activity_background">#FFFFFF</color>
+    <color name="title_color">#000000</color>
+    <color name="title_background">#10000000</color>
+    <color name="grid_view__background">#FFFFFF</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuiteNoteDemo</string>
+    <string name="delete_warning" priority="translator">笔迹删除警告</string>
+    <string name="warning" priority="translator">是否从该设备彻底删除此笔迹文件？若删除将不可恢复！</string>
+    <string name="saving" priority="translator">保存中</string>
+    <string name="delete" priority="translator">删除</string>
+    <string name="cancel" priority="translator">取消</string>
+</resources>
